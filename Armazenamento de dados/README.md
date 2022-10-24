@@ -1,0 +1,3 @@
+-Escreva um programa que pergunte qual é o número favorito de um usuário. 
+-Armazene o número na memória.
+-Em outro arquivo mostre para o usuário o número armazenado na memória.
