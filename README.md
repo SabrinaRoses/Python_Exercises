@@ -1,4 +1,4 @@
-# Python Exercises.
+# Python Crash Course.
 >Exercise developed from the book: Python Crash course.
 
 
